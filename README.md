@@ -26,6 +26,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Symfony](https://img.shields.io/badge/-Symfony-ff69b4?style=flat-square&logo=symfony&logoColor=blueviolet)
 
 
 ## :pushpin: My stats
