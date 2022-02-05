@@ -28,6 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=informational)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=informational)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=nodejs)
 
 
 ## :pushpin: My stats
