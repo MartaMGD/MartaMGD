@@ -1,10 +1,6 @@
 # <b> :handshake: Hi, I'm Marta! :woman:  </b>
 ⤞ :smiley: Pronouns: She/her
 
-⤞ :computer: I’m currently working on a cute webpage about birdwatching :bird:
-
-⤞ 🌱 I’m currently learning React, PHP and Symfony.
-
 ⤞ 💬 Ask me about anything that has to do with design :art:
 
 ## :speech_balloon: Contact me!
