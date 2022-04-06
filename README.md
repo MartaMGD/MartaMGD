@@ -1,5 +1,5 @@
 # <b> :handshake: Hi, I'm Marta! :woman:  </b>
-⤞ :smiley: Pronouns: She/her
+⤞ Always learning.
 
 ⤞ 💬 Ask me about anything that has to do with design :art:
 
