@@ -1,5 +1,5 @@
 # <b> :handshake: Hi, I'm Marta! :woman:  </b>
-⤞ Always learning something new
+⤞ :eyeglasses: Always learning something new
 
 ⤞ 💬 Ask me about anything that has to do with design :art:
 
