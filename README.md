@@ -1,7 +1,9 @@
 # <b> :handshake: Hi, I'm Marta! :woman:  </b>
 ⤞ :eyeglasses: Always learning something new
 
-⤞ 💬 Ask me about anything that has to do with design :art:
+⤞ :art: Ask me about anything that has to do with design :art:
+
+⤞ 💬 I speak English, French and Spanish (native). 
 
 ## :speech_balloon: Contact me!
 
