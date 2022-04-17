@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=blueviolet)
+![Emotion](https://img.shields.io/badge/-Emotion-ff69b4?style=flat-square&logo=emotion&logoColor=red)
 
 #### ⤞ Back-End
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
