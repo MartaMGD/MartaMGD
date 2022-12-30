@@ -18,15 +18,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-%23282C34?style=flat-square&logo=nextjs)
+![ReactQuery](https://img.shields.io/badge/-ReactQuery-%23282C34?style=flat-square&logo=ReactQueryUI&logoColor=red)
+
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=blueviolet)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-%23282C34?style=flat-square&logo=ChakraUI&logoColor=teal)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%23282C34?style=flat-square&logo=TailwindCSS&logoColor=blue)
 
-#### ⤞ Back-End
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=informational)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
-
+#### ⤞ Design
+![Figma](https://img.shields.io/badge/-Figma-%23282C34?style=flat-square&logo=Figma&logoColor=fuchsia)
+![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-%23282C34?style=flat-square&logo=AdobePhotoshopCSS&logoColor=blue)
 
 ## :pushpin: My stats
 ![MartaMGD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaMGD&show_icons=true&theme=dracula)
