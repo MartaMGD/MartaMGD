@@ -1,4 +1,4 @@
-# <b> :handshake: Hi, I'm Marta! :woman:  </b>
+# <b> :handshake: Hi, I'm Marta! :sunflower:  </b>
 ⤞ :eyeglasses: Always learning something new
 
 ⤞ :art: Ask me about anything that has to do with design 
