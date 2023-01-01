@@ -3,7 +3,13 @@
 
 ⤞ :art: Ask me about anything that has to do with design 
 
+⤞ 💻 Currently working as a Frontend developer
+
 ⤞ 💬 I speak English, French and Spanish (native)
+
+⤞ 🎮 I'm a videogame enthusiast, I specially like RPGs 🛡️
+
+⤞ 📚 ...Also a bookworm
 
 ## :speech_balloon: Contact me!
 
