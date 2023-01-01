@@ -34,9 +34,10 @@
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-%23282C34?style=flat-square&logo=ChakraUI&logoColor=teal)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%23282C34?style=flat-square&logo=TailwindCSS&logoColor=blue)
 
-#### ⤞ Design
+#### ⤞ Design and Media
 ![Figma](https://img.shields.io/badge/-Figma-%23282C34?style=flat-square&logo=Figma&logoColor=fuchsia)
-![Photoshop](https://img.shields.io/badge/-AdobePhotoshop-%23282C34?style=flat-square&logo=AdobePhotoshopCSS&logoColor=blue)
+![Photoshop](https://img.shields.io/badge/-Photoshop-%23282C34?style=flat-square&logo=Photoshop&logoColor=blue)
+![Premiere](https://img.shields.io/badge/-Premiere-%23282C34?style=flat-square&logo=Premiere&logoColor=blue)
 
 ## :pushpin: My stats
 ![MartaMGD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaMGD&show_icons=true&theme=dracula)
