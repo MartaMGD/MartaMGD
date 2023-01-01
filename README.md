@@ -1,9 +1,11 @@
 # <b> :handshake: Hi, I'm Marta! :sunflower:  </b>
+⤞ :art: Ask me about anything that has to do with design 
+
 ⤞ :eyeglasses: Always learning something new
 
 ⤞ :art: Ask me about anything that has to do with design 
 
-⤞ 💻 Currently working as a Frontend developer
+⤞ 📹 I have a degree on Media Studies (University of Málaga)
 
 ⤞ 💬 I speak English, French and Spanish (native)
 
@@ -34,7 +36,7 @@
 
 #### ⤞ Design
 ![Figma](https://img.shields.io/badge/-Figma-%23282C34?style=flat-square&logo=Figma&logoColor=fuchsia)
-![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-%23282C34?style=flat-square&logo=AdobePhotoshopCSS&logoColor=blue)
+![Photoshop](https://img.shields.io/badge/-AdobePhotoshop-%23282C34?style=flat-square&logo=AdobePhotoshopCSS&logoColor=blue)
 
 ## :pushpin: My stats
 ![MartaMGD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaMGD&show_icons=true&theme=dracula)
