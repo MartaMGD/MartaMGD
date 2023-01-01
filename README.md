@@ -1,5 +1,5 @@
 # <b> :handshake: Hi, I'm Marta! :sunflower:  </b>
-⤞ :art: Ask me about anything that has to do with design 
+⤞ 💻 Currently working as a Frontend developer
 
 ⤞ :eyeglasses: Always learning something new
 
