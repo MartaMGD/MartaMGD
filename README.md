@@ -9,7 +9,7 @@
 
 ⤞ 💬 I speak English, French and Spanish (native)
 
-⤞ 🎮 I'm a videogame enthusiast, I specially like RPGs 🛡️
+⤞ 🎮 I'm a videogame enthusiast, I specially like RPGs 🛡️ and cozy games 🌱
 
 ⤞ 📚 ...Also a bookworm
 
