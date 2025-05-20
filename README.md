@@ -15,7 +15,7 @@
 
 ## :speech_balloon: Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-martagd96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martagd96/)](https://www.linkedin.com/in/martagd96/)
+[![Linkedin Badge](https://img.shields.io/badge/-martagd96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martagonzalezduque/)](https://www.linkedin.com/in/martagd96/)
 
 [![Gmail Badge](https://img.shields.io/badge/-gonzalezduquemarta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonzalezduquemarta@gmail.com)](mailto:kanna6501@gmail.com)
 
